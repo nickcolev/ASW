@@ -1,0 +1,10 @@
+a	{ text-decoration: none; color: #ee0; }
+a:hover	{ color: #ff0; }
+body { background-color: #121; color: #fff; font-family: "Open Sans",sans-serif; font-size: 1em; }
+fn	{ font-size: 0.4em; font-weight: normal; }
+dfn	{ font-style: italic; }
+small { font-size: 75%; }
+dd	{ margin: 0 0 1em 40px; }
+dt.b	{ font-size: 1.2em; font-weight: bold; }
+div.body { margin-left: 2em; }
+.credits	{ font-size: 0.75em; color: #aa8; }
