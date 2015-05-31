@@ -4,6 +4,7 @@ body { background-color: #121; color: #fff; font-family: "Open Sans",sans-serif;
 fn	{ font-size: 0.4em; font-weight: normal; }
 dfn	{ font-style: italic; }
 small { font-size: 75%; }
+td	{ vertical-align: top; }
 dd	{ margin: 0 0 1em 40px; }
 dt.b	{ font-size: 1.2em; font-weight: bold; }
 div.body { margin-left: 2em; }
